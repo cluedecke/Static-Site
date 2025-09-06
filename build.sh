@@ -1,1 +1,1 @@
-python3 src/main.py "https://github.com/cluedecke/Static-Site"
+python3 src/main.py "https://cluedecke.github.io/Static-Site"
